@@ -2,6 +2,23 @@
 
 ## The Project aims to develop DBMS that will enable users to store and retrieve the data from Hard-disk.
 
+###   _______  _______  _______  __   __      __    _  ___   __    _  _______ 
+###  |       ||       ||       ||  |_|  |    |  |  | ||   | |  |  | ||       |
+###  |_     _||    ___||   _   ||       |    |   |_| ||   | |   |_| ||    ___|
+###    |   |  |   |___ |  |_|  ||       |    |       ||   | |       ||   |___ 
+###    |   |  |    ___||       ||       |    |  _    ||   | |  _    ||    ___|
+###    |   |  |   |___ |   _   || ||_|| |    | | |   ||   | | | |   ||   |___ 
+###    |___|  |_______||__| |__||_|   |_|    |_|  |__||___| |_|  |__||_______|
+
+#Bash Shell Script Database Management System (DBMS)
+
+###########################################################################
+
+    ################ By Mohammed Ali & Ziad Khattab ################
+
+###########################################################################
+
+#
 
   ### The Project Features:
     The Application will be CLI Menu based app, that will provide to user
